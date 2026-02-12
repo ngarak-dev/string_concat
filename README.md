@@ -1,2 +1,2 @@
-# slug_generator
+# string_concat
 Go practices
